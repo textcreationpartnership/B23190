@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John Fox Gent. plaintiff; and Simon Harcourt Esq; defendant. In a writ of error brought by the plaintiff upon a judgment given against him in the Court of King's Bench, in an action of indebitatus assumpsit, there brought by Mr. Harcourt against Mr. Fox, for trying the right of the place of clerkship of the peace for the county of Middlesex.</title>
+            <author>Fox, John, fl. 1704-1735.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23190</idno><idno type="EEBO-CITATION">99887512</idno>
+  <idno type="VID">190489</idno>
+  <idno type="EEBO-PROQUEST">2240885231</idno>
+  
+            <idno type="STC">Wing F2028A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[27]</idno>
+            <idno type="STC">ESTC R227795</idno>
+            <idno type="PROQUEST">ocm99887512</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887512e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190489)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[90])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John Fox Gent. plaintiff; and Simon Harcourt Esq; defendant. In a writ of error brought by the plaintiff upon a judgment given against him in the Court of King's Bench, in an action of indebitatus assumpsit, there brought by Mr. Harcourt against Mr. Fox, for trying the right of the place of clerkship of the peace for the county of Middlesex.</title>
+                  <author>Fox, John, fl. 1704-1735.</author>
+                  <author>Harcourt, Simon Harcourt, Viscount, 1661?-1727.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Debtor and creditor --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="writ">
+            <pb facs="tcp:190489:1"/>
+            <head>JOHN FOX Gent. Plaintiff; AND Simon Harcourt Esq; Defendant. In a Writ of Error brought by the Plaintiff upon a Judgment given against him in the Court of King's Bench, in an Action of <hi>Indebitatus assumpsit,</hi> there brought by Mr. <hi>Harcourt</hi> against Mr. <hi>Fox,</hi> for trying the Right of the Place of Clerkship of the Peace for the County of <hi>Middlesex.</hi>
+            </head>
+            <p>
+               <label>July, 1689.</label> THE Earl of <hi>Clare</hi> being <hi>Custos Rotulorum</hi> of the County of <hi>Middlesex,</hi> in <hi>July</hi> 1689. appointed Mr. <hi>Harcourt</hi> to be Clerk of the Peace of the said County, who accordingly enjoyed that Place all the time the Earl of <hi>Clare</hi> continued <hi>Custos Rotulorum</hi> there.</p>
+            <p>
+               <label>Febr. 1691.</label> The Earl of <hi>Clare</hi> being removed from the Office of <hi>Custos Rotulorum,</hi> and the Earl of <hi>Bedford</hi> made <hi>Custos Rotulorum</hi> in his room, the Earl of <hi>Bedford</hi> constituted the Plaintiff, Mr. <hi>Fox,</hi> duly qualified, Clerk of the Peace there, who accordingly entred upon and executed the said Place: But Mr. <hi>Harcourt</hi> pretending that by virtue of the Grant of the Earl of <hi>Clare,</hi> and of a late Statute, made in the first Year of their now Majesties Reign, he had an Estate for Life in the said Office, and not determinable upon the Removal of the <hi>Custos Rotulorum,</hi> by whom he was appointed, brought the said Action against Mr. <hi>Fox.</hi>
+            </p>
+            <p>Mr. <hi>Fox</hi> being advised by his Counsel that the Right of making and appointing the Clerk of the Peace had been ever in the <hi>Custos Rotulorum</hi> for the time being: And that the same is by the Statute 37 <hi>Hen.</hi> 8. <hi>cap</hi> 1. declared to have always been so; and that it is by the said Statute enacted, <hi rend="blackletterType">That such Clerk of the Peace shall hold and enjoy the said Place during the time that the <hi>Custos Rotulorum</hi> shall occupy and exercise the Office of <hi>Custos Rotulorum.</hi>
+               </hi> By which Act it seems appa<g ref="char:EOLhyphen"/>rent, that the Clerk of the Peace could not continue longer in that Employ than the <hi>Custos Rotulorum</hi> did who put him in, and whose Servant he was.</p>
+            <p>And being further advised, that there was very little Reason to think that the Parliament by the said Act of 1<seg rend="sup">o</seg> K. <hi>William</hi> and Q. <hi>Mary,</hi> had the least Intent to take away from the <hi>Custos Rotulorum</hi> the Right and Power of putting in whom they thought fit to serve them in that Employment of Clerk of the Peace, <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of another's putting in, how unfit soever he may be for that Employment, and how much soever displeasing to the <hi>Custos Rotulorum,</hi> should yet in Despight of him be his Servant in that Place.</p>
+            <p>And it being humbly conceived to be clear and plain that the Statute o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <seg rend="sup">0</seg> K. <hi>William</hi> and Q. <hi>Mary</hi> hath not taken away that Right from the <hi>Custos Rotulorum</hi> which is so expresly declared and settled <hi rend="blackletterType">
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Custos</hi> for the time being</hi> by the Statute of <hi>H.</hi> 8. the Words of the Statute 1<seg rend="sup">o</seg> K. <hi>William</hi> and Q. <hi>Mary,</hi> upon which the Defendant lays all his Stress, being, <hi rend="blackletterType">That the Clerk of the Peace shall take and receive the Fees, Profits and Perquisites thereof, for so long time only as he shall well demean himself in his said Office.</hi> And though it be not added, as it is in the 37 <hi>Hen.</hi> 8. <hi rend="blackletterType">During the time that the <hi>Custos Rotulorum</hi> conti<g ref="char:EOLhyphen"/>nues <hi>Custos;</hi>
+               </hi> yet that is conceived to be necessarily implied, and so strongly, that it is believed it was not thought any ways necessary to put them in.</p>
+            <p>Mr. <hi>Fox</hi> for these Reasons resolved to stand the said Trial, not only for the maintaining his own Right and Interest, but also of his Lord's the Earl of <hi>Bedford,</hi> and of the Right of every <hi>Custos Rotulorum.</hi> And upon the Trial thereof the Jury found, in a special Verdict the two recited Statutes upon the right Construction, whereof depends the Plaintiff's and Defen<g ref="char:EOLhyphen"/>dant's Title to the said Place, upon which the Court of King's Bench have been pleased not only to pronounce a Judgment for Mr. <hi>Harcourt,</hi> but also to grant a <hi>Mandamus</hi> for the restoring Mr. <hi>Harcourt</hi> to the Place, which <hi>Mandamus</hi> was brought to the Justices the Sessions following, <hi>viz.</hi> in <hi>July</hi> 1693. (after this Writ of Error was brought and allowed, and Bail gi<g ref="char:EOLhyphen"/>ven) upon which the Justices of the Peace, at the said Sessions, did turn out Mr. <hi>Fox,</hi> and admitted Mr. <hi>Harcourt,</hi> who is now in Possession of the Clerk of the Peace's Place, whether the Earl of <hi>Bedford</hi> will or no, and must remain so, how just Reasons soever his Lordship may have to except against him, unless the Judgment should be reversed in the House of Lords, which Mr. <hi>Fox</hi> humbly hopes will be done upon their Lordships hearing of the Matter: for the Law has made the Records inseparable from the <hi>Custos,</hi> and the <hi>Custos</hi> his Commission enjoins him to have the Records before the Justices at every Sessions, and who shall carry them? it is not fit the <hi>Custos</hi> himself, being generally of the principal Nobility, should do it: Why then his Clerk of the Peace must do it; and if the <hi>Custos</hi> cannot trust him, which he must do (if he will not do it himself) there will be a manifest Failure of Justice; besides the <hi>Custos</hi> must incur the Danger that will follow in case any Records are razed or imbezell'd, for by the Law the <hi>Custos</hi> is only responsible for the Records, there being no Provision in the Act 1<seg rend="sup">o</seg> K. <hi>William</hi> and Q. <hi>Mary</hi> to save him harmless in that Particular.</p>
+            <p>And besides the Danger the <hi>Custos</hi> is in if he may not have the appointing of his own Clerk of the Peace, the <hi>Custos</hi> is made useless and needless, unless the Clerk of the Peace dieth when he is <hi>Custos.</hi>
+            </p>
+            <p>It seems reasonable that such a Construction should be put upon the Words of the Statute of 1<seg rend="sup">o</seg> K. <hi>William</hi> and Q. <hi>Mary,</hi> as may prevent such Inconveniencies, and may not destroy the Interest of the <hi>Custos,</hi> and create an Estate to the Clerk paramount to that of the <hi>Custos,</hi> who formerly was Master to the Clerk of the Peace.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
